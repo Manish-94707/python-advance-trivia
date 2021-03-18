@@ -1,1 +1,1 @@
-# python-advance-trivia
+# python tutorials for beginner
